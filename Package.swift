@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GenesysCloudMobileUserTracking",
-            url: "https://github.com/MyPureCloud/mobile-tracking-ios-sdk/releases/download/v0.1.2/GenesysCloudMobileUserTracking.xcframework.zip",
-            checksum: "59b3081eb9cd7933fbde176f4e4c9ac89d32d87bd1bfc6e163cc2e3492841079"
+            url: "https://github.com/MyPureCloud/mobile-tracking-ios-sdk/releases/download/v0.1.3/GenesysCloudMobileUserTracking.xcframework.zip",
+            checksum: "0ae338a9690624de4041c56f150c168ae2f6cd5d975314fcd8993fdc7b7c1875"
         )
     ]
 )
